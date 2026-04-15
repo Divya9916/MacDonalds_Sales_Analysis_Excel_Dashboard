@@ -43,7 +43,8 @@ Weekdays contribute ~71.7% of total sales
 High-frequency items are not always high-revenue items
 
 ## Repository Structure
-<img width="291" height="243" alt="image" src="https://github.com/user-attachments/assets/174958f2-78f7-4708-9289-219f05627fbe" />
+<img width="363" height="286" alt="image" src="https://github.com/user-attachments/assets/d94e9fad-5f43-428e-ad87-ce183a0fc046" />
+
 
 
 
