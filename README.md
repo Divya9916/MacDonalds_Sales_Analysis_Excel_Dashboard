@@ -45,7 +45,9 @@ High-frequency items are not always high-revenue items
 ## Repository Structure
 <img width="363" height="286" alt="image" src="https://github.com/user-attachments/assets/d94e9fad-5f43-428e-ad87-ce183a0fc046" />
 
+## Dashboard
 
+<img width="1049" height="545" alt="image" src="https://github.com/user-attachments/assets/5bc6429d-e12b-44ed-8cca-efdae6ec787f" />
 
 
 ## Future Scope
